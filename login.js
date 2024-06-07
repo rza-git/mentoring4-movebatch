@@ -1,5 +1,3 @@
-// TODO FEATURE LOGIN
-
 const login = (username, password) => {
 
     if(username === "admin" && password === "admin") {
