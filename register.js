@@ -10,5 +10,4 @@ const register = (username, password) => {
     console.log(`Username with: ${username} registered successfully`);
 }
 
-register("admin", "test")
-;
+register("admin", "test");
